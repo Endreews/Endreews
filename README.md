@@ -10,7 +10,7 @@
 
   - 🌱 I’m currently studying Computer Engineering at IBMR and Java at Alura
 
-  - 🔭 I am looking for my first job opportunity. I aspire to work as a Java developer, and make my dream come true.
+  - 🔭 I am looking for my first job opportunity in tech. I aspire to work as a Java developer, and make my dream come true.
 </p>
 
 <!-- Dropdown -->
