@@ -25,10 +25,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Endreews)](https://github.com/Endreews/github-readme-stats)
 
 <!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_endrews_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/endreews/)
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22sg76vrdl7hkdyg7jrp2mvey&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=fff700&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
