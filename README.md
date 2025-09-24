@@ -1,7 +1,7 @@
 <h2 align="center">🚀 Olá, eu sou <strong>Endrews Viana Santos</strong></h2>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Y5NThoM3MwNTAxYnhkdWd4dzU1MDlkaWVlY2J4bmY4cmQ5ZmpoNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hQuNhHxSWYhxp9KmyS/giphy.gif" width="300" alt="Gyomei GIF">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnI1aWI3MHBodjA3aml6emhrdHI2MDVhZ29iNzBiOXpmdTdiMHJjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Gyomei GIF">
 </p>
 
 <p align="center">
