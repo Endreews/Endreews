@@ -1,46 +1,41 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World!</h1></summary>
-</div>
+<h2 align="center">🚀 Olá, eu sou <strong>Endrews Viana Santos</strong></h2>
 
-<!-- Presentation -->
-<p>
-  Hi 👋, I'm Endrews! a I'm passionate about technology, from Brazil.
-
-  - 🌱 I’m currently studying Computer Engineering at IBMR and Java at Alura
-
-  - 🔭 I am looking for my first job opportunity in tech. I aspire to work as a Java developer, and make my dream come true.
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Y5NThoM3MwNTAxYnhkdWd4dzU1MDlkaWVlY2J4bmY4cmQ5ZmpoNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hQuNhHxSWYhxp9KmyS/giphy.gif" width="300" alt="Gyomei GIF">
 </p>
 
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 More about me</summary>
+<p align="center">
+  💡 Transformando ideias em soluções inteligentes com <strong>Power Platform</strong> e <strong>Java</strong>.<br>
+  🌱 Sempre aprendendo, evoluindo e explorando novas tecnologias.<br>
+  🤝 Aberto a colaborações e projetos inovadores.<br>
+</p>
 
-  - 💬 I am 21 years old, currently living in Brazil. I did 4 years in English class and have experience with Java, JavaScript and Networking. 
+---
 
-  - ⚡ I enjoy coding, learning, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
-</details>
+### 🧠 Sobre mim
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Endreews)](https://github.com/Endreews/github-readme-stats)
+- 👨‍💻 Desenvolvedor apaixonado por criar soluções que fazem a diferença.  
+- 🔍 Focado em automação, integrações e sistemas corporativos.  
+- 🚀 Explorando o potencial de IA e automação no ecossistema Microsoft.  
 
-<!-- Links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/endreews/)
+---
 
-## 🔥 Skills
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="JAVA" height="30" width="40" 
-src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  </div>
-  
-  <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="VScode" height="30" width="40" 
-src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-  </div>
+### 📫 Conecte-se comigo
+
+<div align="center">
+  <a href="mailto:endrews.santos@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/endreews/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=endrews&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=endrews&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+---
+
+<p align="center">
+  <i>✨ "Código é mais do que lógica — é a arte de transformar ideias em realidade." ✨</i>
+</p>
