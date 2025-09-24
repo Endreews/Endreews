@@ -1,8 +1,5 @@
 <h2 align="center">🚀 Olá, eu sou <strong>Endrews Viana Santos</strong></h2>
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnI1aWI3MHBodjA3aml6emhrdHI2MDVhZ29iNzBiOXpmdTdiMHJjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Gyomei GIF">
-</p>
 
 <p align="center">
   💡 Transformando ideias em soluções inteligentes com <strong>Power Platform</strong> e <strong>Java</strong>.<br>
@@ -12,11 +9,21 @@
 
 ---
 
-### 🧠 Sobre mim
-
-- 👨‍💻 Desenvolvedor apaixonado por criar soluções que fazem a diferença.  
-- 🔍 Focado em automação, integrações e sistemas corporativos.  
-- 🚀 Explorando o potencial de IA e automação no ecossistema Microsoft.  
+<table align="center">
+  <tr>
+    <td>
+      <h2>🚀 Olá, eu sou <strong>Endrews Viana Santos</strong></h2>
+      <p>
+        💡 Transformando ideias em soluções inteligentes com <strong>Power Platform</strong> e <strong>Java</strong>.<br>
+        🌱 Sempre aprendendo, evoluindo e explorando novas tecnologias.<br>
+        🤝 Aberto a colaborações e projetos inovadores.
+      </p>
+    </td>
+    <td>
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZ3bGVic2hoNTM3M3lldnNlb2gzeGEyNmlxaGMzcXp1N2ZpcHB4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="250" alt="GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
