@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  💡 Transformando ideias em soluções inteligentes com <strong>Power Platform</strong> e <strong>Java</strong>.<br>
+  💡 Transformando ideias em soluções inteligentes com <strong>N8N</strong>, <strong>Power Platform</strong> e <strong>Java</strong>.<br>
   🌱 Sempre aprendendo, evoluindo e explorando novas tecnologias.<br>
   🤝 Aberto a colaborações e projetos inovadores.<br>
 </p>
